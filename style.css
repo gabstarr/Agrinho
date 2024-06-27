@@ -73,16 +73,6 @@ img{
     font-size: 20px;
 }
 
-#equipe{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    text-align: center;
-    background-color: #BBB2AB;
-    padding: 20px 0 0;
-    margin: 80px 0 0;
-    border-radius: 15px;
-    border: 2px solid var(--cor-de-texto);
-}
 
 .foto-equipe{
     width: 40%;
