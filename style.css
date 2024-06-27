@@ -27,6 +27,7 @@ img{
 
 .imagem{
     width: 20%;
+    padding-right: 20%;
 }
 
 .apresentacao{
@@ -51,7 +52,7 @@ img{
 
 .tchotcho{
     width: 30%;
-    padding: 5%;
+    padding-left: 30%;
 }
 
 .adrianabloco{
