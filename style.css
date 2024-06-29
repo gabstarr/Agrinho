@@ -29,6 +29,7 @@ img{
 .titulo{
     display: flex;
     justify-content: center;
+    font-size: 150%;
 }
 
 .imagem{
