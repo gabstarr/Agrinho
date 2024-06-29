@@ -26,8 +26,8 @@ img{
     width: 20%
 }
 
-.Titulo{
-    font-display: flex;
+.titulo{
+    display: flex;
 }
 
 .imagem{
