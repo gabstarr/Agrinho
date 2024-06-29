@@ -26,6 +26,7 @@ img{
 }
 
 .Titulo{
+    font-display: flex;
     align-items: center;
 }
 
