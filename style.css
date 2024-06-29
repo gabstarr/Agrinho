@@ -25,6 +25,10 @@ img{
     width: 20%
 }
 
+.Titulo{
+    align-items: center;
+}
+
 .imagem{
     width: 35%;
     padding-right: 5%;
