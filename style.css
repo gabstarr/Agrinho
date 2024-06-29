@@ -28,6 +28,7 @@ img{
 
 .titulo{
     display: flex;
+    justify-content: center;
 }
 
 .imagem{
